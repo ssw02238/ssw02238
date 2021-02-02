@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![ssw02238's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssw02238&count_private=true&show_icons=true&theme=radical)]
+
+
 <!--
 **ssw02238/ssw02238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
