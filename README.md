@@ -14,6 +14,8 @@
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
+bootstrap 
+
 
 ![ssw02238's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssw02238&count_private=true&show_icons=true&theme=radical)
 
