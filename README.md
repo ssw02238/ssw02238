@@ -12,20 +12,21 @@
  - :mortar_board:School :
    Seoul Foreign Langugage High School (14.2~ 17.2) 
    - Chinese major 
+
    Yonsei Univ (17.3 ~ 21.2) 
    - Library and Information Science 
    - Business 
 
-💻 OS : 
+<hr>
+:computer: Programming 
+- 💻 OS : 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-🚀 Skills 
+- 🚀 Skills 
+✨ Python 
+✨ HTML, CSS, Bootstrap
+✨ Django
 
-> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
 
 
