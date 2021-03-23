@@ -1,8 +1,20 @@
 ## :heartbeat: Hi Welcome to yunseo's github 👋
-<hr>
+
 :girl: Personal Information 
-📱 Contact : 
-+82 1094843053 
+
+- 📱 Contact : 
+ +82 1094843053 
+ 
+ - 📫 Email :
+  ssw02238@naver.com 
+  ssw0223820@gmail.com
+  
+ - :mortar_board:School :
+   Seoul Foreign Langugage High School (14.2~ 17.2) 
+   - Chinese major 
+   Yonsei Univ (17.3 ~ 21.2) 
+   - Library and Information Science 
+   - Business 
 
 💻 OS : 
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
