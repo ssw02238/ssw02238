@@ -1,5 +1,6 @@
-## Hi Welcome to yunseo's github 👋
-
+## :heartbeat: Hi Welcome to yunseo's github 👋
+<hr>
+:girl: Personal Information 
 📱 Contact : 
 +82 1094843053 
 
