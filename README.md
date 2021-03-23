@@ -6,23 +6,24 @@
  +82 1094843053 
  
  - 📫 Email :
-  ssw02238@naver.com 
+  ssw02238@naver.com, 
   ssw0223820@gmail.com
   
  - :mortar_board:School :
-   Seoul Foreign Langugage High School (14.2~ 17.2) 
+   **Seoul Foreign Langugage High School** (14.2~ 17.2) 
    - Chinese major 
   
    :mortar_board:School :
-   Yonsei Univ (17.3 ~ 21.2) 
+   **Yonsei** **Univ** (17.3 ~ 21.2) 
    - Library and Information Science 
    - Business 
 
 <hr>
+
+
 :computer: Programming 
 
-- OS : 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+- OS : <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
 - 🚀 Skills 
 
