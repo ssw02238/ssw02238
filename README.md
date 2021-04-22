@@ -33,6 +33,10 @@
 
 ✨ Django
 
+✨ JavaScript
+
+✨ Vue 
+
 
 
 
