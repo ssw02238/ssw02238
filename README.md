@@ -23,22 +23,23 @@
 
 :computer: Programming 
 
+
 - 🚀 OS 
 
-✨ Window 
+   ✨ Window 
 
 
 - 🚀 Skills 
 
-✨ Python 
+   ✨ Python 
 
-✨ HTML, CSS, Bootstrap
+   ✨ HTML, CSS, Bootstrap
 
-✨ Django
+   ✨ Django
 
-✨ JavaScript
+   ✨ JavaScript
 
-✨ Vue 
+   ✨ Vue 
 
 
 
