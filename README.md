@@ -1,20 +1,17 @@
 ## :heartbeat: Hi Welcome to yunseo's github 👋
 
 :girl: Personal Information 
-
-- 📱 Contact : 
- +82 1094843053 
  
  - 📫 Email :
   ssw02238@naver.com, 
   ssw0223820@gmail.com
   
  - :mortar_board:School :
-   **Seoul Foreign Langugage High School** (14.2~ 17.2) 
+   **Seoul Foreign Langugage High School**
    - Chinese major 
   
    :mortar_board:School :
-   **Yonsei** **Univ** (17.3 ~ 21.2) 
+   **Yonsei** **Univ**
    - Library and Information Science 
    - Business 
 
@@ -33,7 +30,7 @@
 
    ✨ Python 
 
-   ✨ HTML, CSS, Bootstrap
+   ✨ HTML, CSS, Bootstrap, Vuetify
 
    ✨ Django
 
