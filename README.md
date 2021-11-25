@@ -36,7 +36,9 @@
 
    ✨ JavaScript
 
-   ✨ Vue 
+   ✨ Vue.js 
+   
+   ✨ React 
 
 
 
