@@ -3,15 +3,11 @@
 :girl: Personal Information 
  
  - 📫 Email :
-  ssw02238@naver.com, 
   ssw0223820@gmail.com
   
  - :mortar_board:School :
-   **Seoul Foreign Langugage High School**
-   - Chinese major 
   
    :mortar_board:School :
-   **Yonsei** **Univ**
    - Library and Information Science 
    - Business 
 
